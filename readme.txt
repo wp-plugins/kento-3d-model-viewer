@@ -1,5 +1,5 @@
 === Kento 3D Model Viewer ===
-Contributors: hasanrang05
+Contributors: kentothemes
 Donate link: 
 Tags: 3D model viewer, obj viewer, 3ds viewer, 3d model display,  3D Model Viewer WordPress
 Requires at least: 3.5
